@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Weather Woo Kotlin</string>
+    <string name="forecast_icon">Forcast Icon</string>
+    
+    <string name="text2">
+        From other countries:\n
+        View Phone numbers for the United Customer Contact Center.
+    </string>
+
+    <string name="title_2">
+        Wheelchair equipment supplied by United
+
+        Airport wheelchairs
+
+        We have wheelchairs available for customers with disabilities to use at each
+        of our airports. it\'s best to request a wheelchair in advance before the day of travel
+        trough your travel agent or the United Accessibility Desk at 1-800-228-2744 within the U.S
+        or Canada. If you\'re calling from elsewhere, please call the United Customer Contact Center
+        and ask to be connected to the Accessibility Desk. Upon arrival at the airport notify a United
+        representative or skycap (if skycap service is available at that airport) that you require
+        a wheelchair for transportation to the departure gate. The usual width of these wheelchairs
+        is 18 inches (45.7 cm). For your convenience, the following airports have assistance centers
+        in their lobbies, which are located near:\n
+        \u25CF DEN - Terminal West, Level 6, between Doors 614-616\n
+        \u25CF EWR - Terminal C, Level 2, Door 4\n
+        \u25CF LAD - Main Terminal, Door 4B\n
+        \u25CF LAX - Terminal 7, Door L2-10\n
+        \u25CF ORD - Terminal 1, Door 1G\n
+        \u25CF SFO - Terminal 3, Door 11\n
+
+        Aisle wheelchairs
+
+        We also offer aisle wheelchairs for transferring non-ambulatory customers to and from their
+        seats on the aircraft.
+
+        Onboard wheelchairs
+        Every aircraft with more than 60 seats has an onboard wheelchair. These wheelchairs are
+        specially designed to fit the aisle of our aircraft and may be used to access tha lavatory.
+        Our inflight personnel are trained in the use of this wheelchair and will assist you.
+
+
+    </string>
+</resources>
